@@ -1,7 +1,7 @@
 [![MasterHea](https://www.appstudio.ca/blog/wp-content/uploads/2021/01/Which-programming-language-is-in-demand-in-Canada.jpg)]
 <h1 align="center">Hi 👋, I'm sharukh khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width = "400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+<img align="right" alt="coding" width = "400" border-radius='25%' src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 - 🔭 I’m currently working on [almabetter capstone project](https://bookmyshowss.netlify.app/)
 
