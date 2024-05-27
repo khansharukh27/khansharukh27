@@ -1,4 +1,4 @@
-<div style="background-color: black">
+<div style="backgroundColor: black">
 [![MasterHea](https://www.appstudio.ca/blog/wp-content/uploads/2021/01/Which-programming-language-is-in-demand-in-Canada.jpg)]
 <h1 align="center">Hi 👋, I'm sharukh khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
