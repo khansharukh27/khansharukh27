@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [almabetter capstone project](https://bookmyshowss.netlify.app/)
 
-- 🌱 I’m currently learning **Reactjs,css,html,js,bootstrape**
+- 🌱 I’m currently learning **jest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khansharukh27](https://github.com/khansharukh27)
 
